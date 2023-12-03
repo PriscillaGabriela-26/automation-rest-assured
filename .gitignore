@@ -10,3 +10,4 @@ target
 classes/
 lib/
 rest-assured-all/dependency-reduced-pom.xml
+test-output/
